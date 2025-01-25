@@ -8,11 +8,8 @@
     display: flex;
     flex-direction: column;
     gap: 48px;
-    /* align-items: center; */
     background: #14171F;
-    /* max-width: 296px;
-    width: 100%; */
-    /* padding: 24px; */
+    
 }
 
 .omoskillBox {
@@ -144,7 +141,7 @@ button {
     justify-content: center;
     align-items: center;
     gap: 12px;
-    /* background: none; */
+   
 }
 
 .headerContainer {
@@ -166,7 +163,7 @@ button {
     display: flex;
     align-items: center;
     gap: 24px;
-    /* visibility: visible; */
+    
 }
 
 .learn {
@@ -234,7 +231,7 @@ header {
     display: flex;
     flex-direction: column;
     gap: 32px;
-    /* width: 100%; */
+   
 }
 
 .levelupBox {
@@ -299,7 +296,6 @@ header {
 
 .informationContainer {
     display: flex;
-    /* align-items: center; */
     gap: 32px;
     flex-wrap: wrap;
 
@@ -315,8 +311,6 @@ header {
 
 .upload__information {
     display: flex;
-    /* max-width: 702px;
-    width: 100%; */
     padding: 24px 16px;
     flex-direction: column;
     gap: 16px;
@@ -501,15 +495,12 @@ form {
 
 .additonalInfoBox {
     display: flex;
-    /* max-width: 702px;
-    width: 100%; */
     align-items: center;
     gap: 24px;
 }
 
 .developmentBox {
     display: flex;
-    /* max-width: 432px; */
     width: 100%;
     padding: 24px 16px;
     flex-direction: column;
@@ -529,7 +520,7 @@ form {
     display: flex;
     align-items: flex-start;
     gap: 12px;
-    /* align-self: stretch; */
+    
 }
 
 .pen {
@@ -659,8 +650,6 @@ option {
 
 .andriorichardBox {
     display: flex;
-    /* max-width: 346px;
-    width: 100%; */
     padding: 16px;
     flex-direction: column;
     align-items: center;
